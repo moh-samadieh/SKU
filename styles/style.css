@@ -1,0 +1,20 @@
+﻿@font-face {
+    font-family: "btitr";
+    src: url("/fonts/BTitrBold.eot");
+    src: url("/fonts/BTitrBold.woff") format("woff"), url("/fonts/BTitrBold.eot.ttf") format("opentype");
+}
+
+body {
+    text-align: right !important;
+    font-family: Tahoma;
+}
+
+#header {
+    background-image: url("/images/header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2, h3 {
+    font-family: btitr;
+}
